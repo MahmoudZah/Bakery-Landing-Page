@@ -473,6 +473,9 @@ img {
   border-color: var(--first-color);
 }
 /*=============== VISIT ===============*/
+.visit{
+  padding-bottom: 8rem;
+}
 .visit__container{
   position: relative;
   padding-block: 3rem;
