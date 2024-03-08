@@ -474,7 +474,7 @@ img {
 }
 /*=============== VISIT ===============*/
 .visit{
-  padding-bottom: 8rem;
+  padding-bottom: 8rem !important;
 }
 .visit__container{
   position: relative;
